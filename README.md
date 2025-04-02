@@ -53,3 +53,14 @@
 10. `git status`위 9번 업로드 됐는지 확인 (초록색 변경)
 11. `git commit -m '메세지'` 수정 파일에 대한 기록 메세지 작성
 12. `git push origin main` github 저장소에 업로드
+----
+# HTML과 meta의 속성
+## HTML
+### <html lang="ko"> 여기서 html의 속성은 lang 언어이고, ko는 값이며 코리아를 뜻한다.
+* 컴퓨터의 화면 낭독 소프트웨어 "스크린 리더"라고 부른다.
+## meta
+### <meta charset="utf-8>
+* 언어를 다국어로 설정하고 head에 입력한다.
+* <meta name="description"content=""> 검색어 제목 밑에 요약, 설명을 덧붙일때 사용한다.
+* <meta name="keyword"content=""> 키워드로 사용자가 검색했을 때 관련되어 내 사이트가 나오게 설정하는 것이다.
+----
