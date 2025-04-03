@@ -30,7 +30,7 @@
 # 처음 git을 이용한 github 저장소 업로드 시 해야하는 순서
 1. 현재 사용중 로컬 저장소를 git 저장소로 등록 `git init`
 2. 위 1번 정상 등록 시 경로에 (master) 표시 출력
-3. master -> main으로 최상위 경로명칭을 변경하기 위해 `git branch -main` 작성
+3. master -> main으로 최상위 경로명칭을 변경하기 위해 `git branch -m main` 작성
 4. github 저장소 생성 후 저장소 주소 복사
 5. 현재 로컬 저장소 github 저장소 연결 `git remote add origin 주소붙여넣기`<!-- 여기까지 세팅 -->
 6. `git status` 현재 상태확인 (스테이징, 작업디렉터리, 저장소)
